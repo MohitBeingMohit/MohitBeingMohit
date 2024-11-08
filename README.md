@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohitBeingMohit
 - 👀 I’m interested in doing nothing
-- 🌱 I’m currently learning Full Stack Dev
+- 🌱 I’m currently learning MERN Stack Dev
 - 💞️ I’m looking to collaborate on Hackathons and Tech Fests
 - 📫 You can drop a mail at thewriterranjan@gmail.com
 - 😄 My Pronouns being Lazy/Dev
